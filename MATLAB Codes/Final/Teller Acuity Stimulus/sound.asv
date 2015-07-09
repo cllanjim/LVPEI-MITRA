@@ -1,0 +1,5 @@
+function Sound
+
+    cf = 2000;
+    sf = 22050;
+    d = 10.0;
